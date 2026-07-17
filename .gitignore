@@ -41,3 +41,7 @@ out/
 
 ### log files ###
 logs/**
+
+### AI Docs ###
+
+claude/
